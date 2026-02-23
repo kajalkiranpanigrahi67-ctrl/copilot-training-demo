@@ -1,0 +1,17 @@
+{
+  "name": "copilot-training-demo",
+  "version": "1.0.0",
+  "description": "This repository is created fully using GitHub Copilot.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "Kajal Panigrahi <kajalkiran.panigrahi@yara.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.3.0"
+  }
+}
